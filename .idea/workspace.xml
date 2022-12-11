@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: add img in directory,edit  cv.md readme.md" />
+    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: edit cv.md readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670743229829</updated>
       <workItem from="1670743233002" duration="1076000" />
+      <workItem from="1670745137404" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add img file">
       <created>1670743432169</created>
@@ -65,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670744261132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: edit cv.md readme.md">
+      <created>1670745388436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670745388436</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: edit cv.md readme.md">
+      <created>1670745403305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670745403305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +114,8 @@
     <MESSAGE value="feat: add img file" />
     <MESSAGE value="init: add img directory, mk cv.md" />
     <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add img in directory,edit  cv.md readme.md" />
+    <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
+    <MESSAGE value="feat: edit cv.md readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: edit cv.md readme.md" />
   </component>
 </project>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: edit cv.md readme.md" />
+    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: add index.html">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670743229829</updated>
       <workItem from="1670743233002" duration="1076000" />
-      <workItem from="1670745137404" duration="377000" />
+      <workItem from="1670745137404" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add img file">
       <created>1670743432169</created>
@@ -81,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670745403305</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init: new branch">
+      <created>1670745548665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670745548665</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: add dir style &amp; style.css">
+      <created>1670745663920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670745663920</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: add index.html">
+      <created>1670745762710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670745762710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +121,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="gh-pages" />
+                        <option value="rsschool-cv-html" />
                       </list>
                     </value>
                   </entry>
@@ -116,6 +139,9 @@
     <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
     <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
     <MESSAGE value="feat: edit cv.md readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: edit cv.md readme.md" />
+    <MESSAGE value="init: new branch" />
+    <MESSAGE value="feat: add dir style &amp; style.css" />
+    <MESSAGE value="feat: add index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add index.html" />
   </component>
 </project>

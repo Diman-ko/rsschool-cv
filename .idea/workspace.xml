@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: edit style.css &amp; index.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc510c86-e085-4d06-b78c-a5c6a6ce66c4" name="Changes" comment="feat: edit html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670743229829</updated>
       <workItem from="1670743233002" duration="1076000" />
-      <workItem from="1670745137404" duration="1628000" />
+      <workItem from="1670745137404" duration="2006000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add img file">
       <created>1670743432169</created>
@@ -119,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670746120783</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: add img file">
+      <created>1670754056620</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670754056620</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: edit html">
+      <created>1670754191816</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670754191816</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +161,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: add img file" />
     <MESSAGE value="init: add img directory, mk cv.md" />
     <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
     <MESSAGE value="feat: add img in directory,edit  cv.md readme.md" />
@@ -159,6 +170,8 @@
     <MESSAGE value="feat: add index.html" />
     <MESSAGE value="feat: edit index.html" />
     <MESSAGE value="feat: edit style.css &amp; index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: edit style.css &amp; index.html" />
+    <MESSAGE value="feat: add img file" />
+    <MESSAGE value="feat: edit html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: edit html" />
   </component>
 </project>

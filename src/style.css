@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: mediumvioletred;
+    font-style: oblique;
+    font-size: xxx-large;
+
+    }
+p {
+    text-overflow: ellipsis;
+}

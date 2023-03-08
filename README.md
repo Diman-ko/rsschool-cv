@@ -1,3 +1,3 @@
 https://Diman-ko.github.io/rsschool-cv/cv
-https://Diman-ko.github.io/rsschool-cv/
-rsschool-cv
+<br/>https://Diman-ko.github.io/rsschool-cv/
+<br/>rsschool-cv

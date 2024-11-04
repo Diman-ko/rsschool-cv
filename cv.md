@@ -23,6 +23,8 @@ Skills
 * CSS/SASS
 * JavaScript (Basic)
 * Git
+* React
+* TypeScript
   
 
 Code Example
